@@ -52,7 +52,6 @@ const CountryBar = () => {
 
 
   return (
-    
     <div style={{ width: '100vw', height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <LineChart width={730} height={250} data={data}
         margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
