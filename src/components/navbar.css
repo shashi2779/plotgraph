@@ -1,0 +1,11 @@
+.qw{
+background-color: hsl(225, 100%, 64%);
+}
+.qw h2{
+    color: white;
+}
+.qw h2:hover{
+    color: black;
+}
+
+
